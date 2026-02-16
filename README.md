@@ -9,21 +9,21 @@ It combines SQL and Python analysis, to highlight financial impact and recommend
 
 🔑 Key Findings
 
-Identified 126 transactions exceeding the allowable discount cap (1.5%).
+• Identified 126 transactions exceeding the allowable discount cap (1.5%).
 
-Estimated $197,546.25 in lost revenue.
+• Estimated $197,546.25 in lost revenue.
 
-Discounts applied were between 1.8% and 147%, which was significantly above baseline.
+• Discounts applied were between 1.8% and 147%, which was significantly above baseline.
 
 ✅ Recommended Actions
 
-Audit flagged transactions to confirm authorization and system errors.
+• Audit flagged transactions to confirm authorization and system errors.
 
-Strengthen discount governance with automated caps.
+• Strengthen discount governance with automated caps.
 
-Implement monitoring views in SQL to continuously track discount percentages.
+• Implement monitoring views in SQL to continuously track discount percentages.
 
-Train staff on compliance.
+• Train staff on compliance.
 
 
 
