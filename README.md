@@ -17,4 +17,5 @@ Implement monitoring views in SQL to continuously track discount percentages.
 Train staff on compliance.
 
 Author Ruth Wangu Kiarie
+
 Business Insights & Data Analytics Specialist| SQL • Python • Power BI • Data Science & Analytics • Business Impact
