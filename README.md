@@ -2,7 +2,9 @@
 Identifying the source of revenue loss
 
 📊 Project Overview
+
 This project investigates revenue leakage in a business' transactions, focusing on misapplied discounts and pricing errors.
+
 It combines SQL and Python analysis, to highlight financial impact and recommend corrective actions.
 
 🔑 Key Findings
@@ -22,6 +24,8 @@ Strengthen discount governance with automated caps.
 Implement monitoring views in SQL to continuously track discount percentages.
 
 Train staff on compliance.
+
+
 
 
 
