@@ -13,7 +13,7 @@ It combines SQL and Python analysis, to highlight financial impact and recommend
 
 • Estimated $197,546.25 in lost revenue.
 
-• Discounts applied were between 1.8% and 147%, which was significantly above baseline.
+• Discounts incorrectly applied were between 1.8% and 147%, which was significantly above baseline.
 
 ✅ Recommended Actions
 
