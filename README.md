@@ -26,7 +26,7 @@ It combines SQL and Python analysis, to highlight financial impact and recommend
 • Train staff on compliance.
 
 
-
+Analysis Report   https://identifying-the-source-o-ozs7928.gamma.site/
 
 
 Author Ruth Wangu Kiarie
